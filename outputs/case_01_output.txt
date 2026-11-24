@@ -1,0 +1,8 @@
+Employee name: Basic pay: Overtime hours: Incentive: 
+EMPLOYEE PAYROLL STATEMENT
+Name: Rajesh Kumar
+Gross salary: Rs. 107500.00
+Tax: Rs. 10750.00
+PF: Rs. 9000.00
+Other deductions: Rs. 2000.00
+Net salary: Rs. 85750.00

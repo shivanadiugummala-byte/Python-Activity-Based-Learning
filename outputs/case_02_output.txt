@@ -1,0 +1,15 @@
+Number of products: 
+Product 1
+Name: Quantity: Unit price: Category (grocery/electronics/luxury): 
+Product 2
+Name: Quantity: Unit price: Category (grocery/electronics/luxury): 
+Product 3
+Name: Quantity: Unit price: Category (grocery/electronics/luxury): 
+RETAIL INVOICE
+Rice              2 x   250.00  Amount=   500.00  Tax=  25.00
+Headphones        1 x  3500.00  Amount=  3500.00  Tax= 420.00
+Perfume           2 x  1800.00  Amount=  3600.00  Tax= 648.00
+Subtotal: Rs. 7600.00
+Discount: Rs. 380.00
+Tax: Rs. 1093.00
+Payable: Rs. 8313.00

@@ -1,0 +1,16 @@
+SMART CANTEEN
+1. Rice Meal    Rs.60   Stock=20
+2. Dosa         Rs.30   Stock=15
+3. Tea          Rs.15   Stock=30
+4. Water        Rs.10   Stock=50
+Number of menu items to order: 
+ORDER BILL
+Menu item number: Quantity: Rice Meal      4 x   60 = Rs. 240.00
+Menu item number: Quantity: Dosa           3 x   30 = Rs. 90.00
+Menu item number: Quantity: Water          2 x   10 = Rs. 20.00
+Subtotal: Rs. 350.00
+Bulk discount: Rs. 35.00
+Payable: Rs. 315.00
+
+LOW-STOCK AUDIT
+No low-stock items.

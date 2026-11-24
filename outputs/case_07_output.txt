@@ -1,0 +1,20 @@
+Number of transactions: 
+Transaction 1
+Transaction ID: Amount: Merchant: 
+Transaction 2
+Transaction ID: Amount: Merchant: 
+Transaction 3
+Transaction ID: Amount: Merchant: 
+Transaction 4
+Transaction ID: Amount: Merchant: 
+Transaction 5
+Transaction ID: Amount: Merchant: 
+Transaction 6
+Transaction ID: Amount: Merchant: 
+Transaction 7
+Transaction ID: Amount: Merchant: 
+SUSPICIOUS TRANSACTION REPORT
+T001 and T003: duplicate Rs. 500.00 at amazon
+T001 and T007: duplicate Rs. 500.00 at amazon
+T002 and T005: duplicate Rs. 1200.00 at flipkart
+T003 and T007: duplicate Rs. 500.00 at amazon

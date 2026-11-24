@@ -1,0 +1,18 @@
+Number of students: Number of subjects: 
+Student 1 name: Subject 1 mark: Subject 2 mark: Subject 3 mark: Subject 4 mark: 
+Student 2 name: Subject 1 mark: Subject 2 mark: Subject 3 mark: Subject 4 mark: 
+Student 3 name: Subject 1 mark: Subject 2 mark: Subject 3 mark: Subject 4 mark: 
+Student 4 name: Subject 1 mark: Subject 2 mark: Subject 3 mark: Subject 4 mark: 
+STUDENT MARKS MATRIX
+Ananya          Total= 341.00 Average= 85.25
+Bharath         Total= 285.00 Average= 71.25
+Chitra          Total= 260.00 Average= 65.00
+Divya           Total= 359.00 Average= 89.75
+
+SUBJECT-WISE AVERAGES
+Subject 1: 77.25
+Subject 2: 80.50
+Subject 3: 76.00
+Subject 4: 77.50
+Top student: Divya
+Best subject: Subject 2

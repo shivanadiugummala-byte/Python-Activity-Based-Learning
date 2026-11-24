@@ -1,0 +1,15 @@
+Number of courses: 
+Course 1
+Course name: Start time (24-hour, e.g. 9.5): End time (24-hour): 
+Course 2
+Course name: Start time (24-hour, e.g. 9.5): End time (24-hour): 
+Course 3
+Course name: Start time (24-hour, e.g. 9.5): End time (24-hour): 
+Course 4
+Course name: Start time (24-hour, e.g. 9.5): End time (24-hour): 
+Course 5
+Course name: Start time (24-hour, e.g. 9.5): End time (24-hour): 
+TIMETABLE CONFLICTS
+Mathematics overlaps Chemistry
+Chemistry overlaps Physics
+Python Lab overlaps English

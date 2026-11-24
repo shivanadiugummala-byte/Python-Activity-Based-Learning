@@ -1,0 +1,8 @@
+Number of students: Number of subjects: 
+Student 1 name: Subject 1 marks: Subject 2 marks: Subject 3 marks: Subject 4 marks: 
+Student 2 name: Subject 1 marks: Subject 2 marks: Subject 3 marks: Subject 4 marks: 
+Student 3 name: Subject 1 marks: Subject 2 marks: Subject 3 marks: Subject 4 marks: 
+STUDENT PERFORMANCE
+Ananya          Average= 83.25  Excellent  Weak subjects=0
+Bharath         Average= 58.75  Average    Weak subjects=0
+Chitra          Average= 43.75  Average    Weak subjects=1

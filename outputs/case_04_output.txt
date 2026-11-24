@@ -1,0 +1,17 @@
+Number of products: 
+Product 1
+Name: System stock: Physical stock: 
+Product 2
+Name: System stock: Physical stock: 
+Product 3
+Name: System stock: Physical stock: 
+Product 4
+Name: System stock: Physical stock: 
+Product 5
+Name: System stock: Physical stock: 
+WAREHOUSE RECONCILIATION
+Rice Bags       System=100 Physical=106 Difference=   6  DISCREPANCY
+Sugar           System= 80 Physical= 82 Difference=   2  OK
+Oil Cans        System= 50 Physical= 43 Difference=  -7  DISCREPANCY
+Wheat           System= 60 Physical= 60 Difference=   0  OK
+Salt            System= 25 Physical= 18 Difference=  -7  DISCREPANCY, REORDER
